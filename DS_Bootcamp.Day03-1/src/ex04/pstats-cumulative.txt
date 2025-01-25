@@ -1,0 +1,14 @@
+Welcome to the profile statistics browser.
+Mon Jan  6 21:25:12 2025    profiling_stats.prof
+
+         756614 function calls (736408 primitive calls) in 1.737 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2195 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    298/1    0.004    0.000    1.737    1.737 {built-in method builtins.exec}
+        1    0.000    0.000    1.737    1.737 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.464    1.464 financial_enhanced.py:9(get_response)
+        1    0.000    0.000    1.403    1.403 /home/alxn04/School21/DS_Bootcamp.Day03-1/src/ex03/lornelvu_3/lib/python3.10/site-packages/httpx/_client.py:1036(get)
+        1    0.000    0.000    1.403    1.403 /home/alxn04/School21/DS_Bootcamp.Day03-1/src/ex03/lornelvu_3/lib/python3.10/site-packages/httpx/_client.py:771(request)

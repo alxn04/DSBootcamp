@@ -1,0 +1,15 @@
+2024-12-18 00:08:56,842 BEGIN NEW RUN PROGRAM: Setup logging config
+2024-12-18 00:08:56,842 Initialization Research object with file data.csv
+2024-12-18 00:08:56,843 Success check csv structure of data.csv
+2024-12-18 00:08:56,843 Success read data from data.csv
+2024-12-18 00:08:56,843 Initialization of Calculations object
+2024-12-18 00:08:56,843 Success count of heads and tails
+2024-12-18 00:08:56,843 Success count of heads and tails
+2024-12-18 00:08:56,843 Success count fractions of heads and tails
+2024-12-18 00:08:56,843 Initialization of Calculations object
+2024-12-18 00:08:56,843 Success predict list of heads and tails
+2024-12-18 00:08:56,843 Initialization of Calculations object
+2024-12-18 00:08:56,843 Success count of heads and tails
+2024-12-18 00:08:56,843 Initialization of Calculations object
+2024-12-18 00:08:56,843 Success save report to report.txt
+2024-12-18 00:08:57,406 Success send message to telegram channel

@@ -1,0 +1,6 @@
+ivan.petrov@corp.com
+emma.geller@corp.com
+john.smith@corp.com
+nevernyformat@corp.com
+neverny.format@corp
+neverny.format.corp.com
