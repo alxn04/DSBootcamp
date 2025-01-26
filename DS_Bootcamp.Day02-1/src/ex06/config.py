@@ -10,7 +10,7 @@ REPORT_TEMPLATE = """
 """
 LOG_FILENAME = "analytics.log"
 
-API_KEY = "7770683768:AAG64VBzt0t1agzzdh22X9FbSKbNMyN7Wm4"
+API_KEY = ""
 
 BOT_URL = "https://api.telegram.org/bot"
 
